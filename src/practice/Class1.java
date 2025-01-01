@@ -6,6 +6,7 @@ public class Class1 {
 		// TODO Auto-generated method stub
 		System.out.println("commit -1");
 		System.out.println("commit -2");
+		System.out.println("commit -3");
 	}
 
 }
